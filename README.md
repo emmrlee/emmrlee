@@ -4,7 +4,7 @@
 - in my free time, i love <i>going to the beach 🏖, trying new foods 🍽, & curating playlists 🎧</i> 
 
 ### ⌨ technical skills ⌨
-- programming languages: <i>java, js, c, go, rust, html/css, bash, & awk</i>
+- programming languages: <i>java, js, c, go, rust, html/css, bash, awk, & latex</i>
 - tools: <i>emacs, vsc, adobe indesign, & figma</i>
 
 ### 🥅 goals 🥅
